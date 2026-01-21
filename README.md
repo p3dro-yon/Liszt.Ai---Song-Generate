@@ -4,3 +4,5 @@ Um projeto 100% brasileiro de um gerador de música procedural para piano em Pyt
 
 <img src="https://img.shields.io/badge/Made%20with-Python%203.6+-green" alt="Made With Python 3.6+" width="150" />
 <img src="https://img.shields.io/badge/Made%20with-Python%203.6+-blue" alt="Made With Python 3.6+" width="150" />
+
+Atualmente abandonado, mas talvez eu ainda volte com ele um dia.
